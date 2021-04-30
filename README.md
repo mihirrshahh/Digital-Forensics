@@ -1,2 +1,6 @@
 # Digital-Forensics
-Degree Project as digital forensics.
+
+Myself Mihir Shah
+Bsc.IT, IMS and Cyber Security Student.
+
+Degree Project as Digital Forensics.
